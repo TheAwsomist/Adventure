@@ -1,0 +1,31 @@
+body{
+    font-family: 'Poppins',sans-serif;
+}
+.col-4 {
+  height: 160px;
+}
+
+.tic {
+  width: 45%;
+  margin-top: 10%;
+}
+
+.border1{
+border-right:5px solid black;
+border-bottom:5px solid black
+} 
+
+.border2{
+border-bottom:5px solid black
+}
+
+.border3{
+border-right:5px solid black
+}
+
+.col-4{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 5em;
+}
